@@ -180,7 +180,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 {
   height: 370px;
   width: 370px;
-  background-image: url(/images/5.png);
+  background-image: url(images/5.png);
   border: 2px solid #0B192F;
   border-radius: 50%;
   background-size: cover;
